@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "../python"
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "../javacript"
+		},
+		{
+			"path": "../rgb"
+		},
+		{
+			"path": "../proyectos"
+		},
+		{
+			"path": "../prueba"
+		},
+		{
+			"path": "../portafolio_Alan"
+		},
+		{
+			"path": "../vue.js"
+		},
+		{
+			"path": "../gestor-tareas"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gestor-tareas"
+	}
+}
